@@ -1,4 +1,4 @@
-# Assignment 1 - Word Ladder
+# Assignment 1 - Word Ladder Specification
 
 **Please `git pull` frequently to get the latest changes.**
 
